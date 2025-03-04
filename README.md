@@ -1,16 +1,30 @@
-# todo
+Todo App
 
-A new Flutter project.
+A simple and efficient Todo application built with Flutter.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+Add new tasks
 
-A few resources to get you started if this is your first Flutter project:
+Mark tasks as complete
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Delete tasks
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Persistent storage (coming soon)
+
+Getting Started
+
+Prerequisites
+
+Make sure you have Flutter installed. You can download it from Flutter's official website.
+
+
+cd todo_app
+
+Install dependencies:
+
+flutter pub get
+
+Run the app:
+
+flutter run
